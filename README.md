@@ -7,7 +7,7 @@ A CLI to automatically clone the [Node Express API Starter](https://github.com/J
 Install the CLI globally OR use npx:
 
 ```sh
-npm install -g create-node-express-api
+npm install -g @jayvirrathi/create-node-express-api-github@1.0.0
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install -g create-node-express-api
 # with global install
 create-node-express-api name-of-app
 # with npx
-npx create-node-express-api name-of-app
+npx @jayvirrathi/create-node-express-api-github@1.0.0 name-of-app
 ```
 
 This will create a directory with the given name, clone the [Node Express API starter](https://github.com/Jayvirrathi/node-express-api-starter.git) repo into it, and install dependencies.
