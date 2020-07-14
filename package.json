@@ -1,0 +1,19 @@
+{
+  "name": "@Jayvirrathi/create-node-express-api-github",
+  "version": "1.0.0",
+  "bin": {
+    "create-node-express-api-github": "index.js"
+  },
+  "description": "A CLI to automatically clone the Express API Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jayvirrathi/create-node-express-api-github.git"
+  },
+  "keywords": [],
+  "author": "Jayvir Rathi",
+  "license": "MIT"
+}
